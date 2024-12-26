@@ -1,2 +1,2 @@
 # git-test-repo
-Testing git
+Testing git2
